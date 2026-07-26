@@ -1,0 +1,28 @@
+# FitOn
+
+> FitOn is a consumer digital fitness and wellness platform providing free, on-demand workout classes (cardio, strength, yoga, Pilates, HIIT), guided meditation, personalized meal plans, nutrition tracking, recipes, and social challenges to 15M+ members across mobile, web, and connected-TV apps. FitOn Health is its enterprise wellness benefit for employers, health plans, and brokers. FitOn publishes no public developer API, SDKs, or OpenAPI at this time.
+
+## About
+- [FitOn homepage](https://fitonapp.com/): Free fitness, meditation, and nutrition app overview.
+- [FitOn Health (enterprise)](https://www.fitonhealth.com/): B2B wellness benefit for employers, health plans, and brokers.
+- [Blog / Advice](https://fitonapp.com/posts/): Fitness, nutrition, and wellness articles.
+- [Guides](https://fitonapp.com/guides/): Health and workout guides.
+
+## Access
+- [Sign up](https://app.fitonapp.com/goal2): Create a FitOn account.
+- [Login](https://app.fitonapp.com/login): Member login.
+- [Help Center](https://help.fitonapp.com/): Support and FAQs.
+
+## Partnerships (no self-serve API)
+- [Technology partnerships](https://www.fitonhealth.com/partners/technology): Tech partner program.
+- [Broker partnerships](https://www.fitonhealth.com/brokers): Broker program.
+- [Gym & studio partnerships](https://www.fitonhealth.com/facilities): Facility program.
+
+## Legal
+- [Terms of Use](https://fitonapp.com/terms/)
+- [Privacy Policy](https://fitonapp.com/privacy/)
+
+## Notes
+- generated: '2026-07-19'
+- method: generated
+- source: apis.yml + fitonapp.com / fitonhealth.com public pages (no OpenAPI, no developer portal, no /llms.txt published)

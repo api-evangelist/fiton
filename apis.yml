@@ -1,8 +1,16 @@
 aid: fiton
 name: FitOn
-description: 'FitOn is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  FitOn is a consumer digital fitness and wellness platform offering free,
+  on-demand workout classes (cardio, strength, yoga, Pilates, HIIT), guided
+  meditation, personalized meal plans and nutrition tracking, recipes, and
+  social challenges. FitOn serves 15 million+ members with celebrity and
+  world-class trainers across mobile, web, and connected-TV apps (Apple TV,
+  Roku, Chromecast, Fire TV). Its FitOn Health arm delivers an enterprise
+  wellness benefit to employers, health plans, and brokers. FitOn is backed by
+  Accel. As of this enrichment pass FitOn publishes no public developer API,
+  developer portal, SDKs, or OpenAPI; consumer and B2B integration is handled
+  through partnership programs rather than a self-serve API.
 url: https://raw.githubusercontent.com/api-evangelist/fiton/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +18,31 @@ x-backed-by:
 - accel
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://fitonapp.com/wp-content/uploads/cropped-App-icon_512-1.png
 tags:
 - Company
 - Healthcare
+- Fitness
+- Wellness
+- Meditation
+- Nutrition
+- Consumer
+- Mobile App
+- Health And Fitness
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,24 @@ maintainers:
 common:
 - type: Website
   url: https://fitonapp.com/
+- type: Support
+  url: https://help.fitonapp.com/
+- type: Blog
+  url: https://fitonapp.com/posts/
+- type: SignUp
+  url: https://app.fitonapp.com/goal2
+- type: Login
+  url: https://app.fitonapp.com/login
+- type: TermsOfService
+  url: https://fitonapp.com/terms/
+- type: PrivacyPolicy
+  url: https://fitonapp.com/privacy/
+- type: DomainSecurity
+  url: security/fiton-domain-security.yml
+- type: LLMsTxt
+  url: llms/fiton-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
