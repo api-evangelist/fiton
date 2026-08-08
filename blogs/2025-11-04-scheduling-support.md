@@ -1,0 +1,7 @@
+---
+title: "Scheduling & Support"
+url: "http://help.fitonapp.com/en/articles/12747835-scheduling-support"
+date: "2025-11-04"
+feed_url: "https://help.fitonapp.com/feed.xml"
+---
+
